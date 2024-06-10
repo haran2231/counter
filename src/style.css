@@ -9,6 +9,12 @@
     align-items: center;
 }
 
+.number button{
+    background-color: black;
+    color: aliceblue;
+    border-radius: 5px;
+}
+
 body{
     background-color: aquamarine;
 }
